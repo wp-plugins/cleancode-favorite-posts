@@ -31,7 +31,7 @@ Any issues: [contact me](http://www.cleancode.co.nz/contact).
 
 = Where can I find help for this plugin =
 
-You can find more information of this plugin from [CleanCodeNz Favorite Posts Plugin](http://www.cleancode.co.nz/cleancodenz-favorite-posts-plugin "Favorite Posts List From Google Analytics!")
+You can find more information of this plugin from [CleanCodeNz Favorite Posts Plugin](http://www.cleancode.co.nz/cleancodenz-favorite-posts-wordpress-plugin "Favorite Posts List From Google Analytics!")
 
 == Screenshots ==
 
