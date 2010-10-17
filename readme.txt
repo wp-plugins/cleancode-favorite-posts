@@ -35,9 +35,7 @@ You can find more information of this plugin from [CleanCodeNz Favorite Posts Pl
 
 == Screenshots ==
 
-1. Options page, how to set up your Google Analytics account for the plugin to get data from
-
-2. How to use the plugin in your pages or posts to list the favorite posts
+Screenshots at: [CleanCodeNz Favorite Posts Plugin](http://www.cleancode.co.nz/cleancodenz-favorite-posts-wordpress-plugin "Favorite Posts List From Google Analytics!")
 
 3. An example of final output of the plugin 
 
