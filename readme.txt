@@ -37,8 +37,6 @@ You can find more information of this plugin from [CleanCodeNz Favorite Posts Pl
 
 Screenshots at: [CleanCodeNz Favorite Posts Plugin](http://www.cleancode.co.nz/cleancodenz-favorite-posts-wordpress-plugin "Favorite Posts List From Google Analytics!")
 
-3. An example of final output of the plugin 
-
 == Changelog ==
 
 = 1.0.1 =
